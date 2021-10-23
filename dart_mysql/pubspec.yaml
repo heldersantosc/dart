@@ -1,0 +1,8 @@
+name: dart_mysql
+
+environment:
+  sdk: '>=2.10.0 <3.0.0'
+
+dependencies:
+  mysql1: ^0.19.2
+  args: ^2.3.0
